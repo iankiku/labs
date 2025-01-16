@@ -6,7 +6,10 @@
 
 # Files you should download for your project
 - normalize_names_script.ipynb
-- download it into your project folder and run it 
+- download it into your project folder and run it
+- How to download: click on the file_name above 👆
+- It will open a new window, there is a download button at the top right of the file click it to download
+- Save it in your project folder on your computer
 
 
 # Files for continues learning
